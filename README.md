@@ -1,0 +1,1 @@
+Skills demonstrated in this project is knowledge of the uses of basic HTML tags like h1, h2, p, img, a, ol ,ul , and li to display a recipe overview site that links to other recipe html pages. This site is my very first project in The Odin Project!
