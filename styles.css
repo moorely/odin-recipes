@@ -1,0 +1,29 @@
+body {
+  background-color: #f5e6ca;
+}
+
+.links {
+  color: #f5e6ca;
+  background-color: #343f56;
+}
+
+img {
+  width: 350px;
+  height: auto;
+  float: right;
+  border-radius: 10px;
+  border-style: double;
+  border-color: #fb9300;
+}
+
+h1 {
+  color: #f5e6ca;
+  background-color: #343f56;
+  width: 500px;
+  height: auto;
+  text-align: center;
+}
+
+h2 {
+  color: #0a1d37;
+}

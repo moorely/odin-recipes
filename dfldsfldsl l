@@ -1,0 +1,59 @@
+[33mcommit fd19c5f2f620efe604e3a95d00d1c5f5ede5271a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:55:50 2021 +0800
+
+    Added a README.md file
+
+[33mcommit 283b77cb3560d2b7b4a708ccd44d07526204a276[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:50:55 2021 +0800
+
+    Finalized index.html with links to the three html files: applecrumble.html, cookies.html, and frenchchicken.html
+
+[33mcommit 341f52b53bac206649a5b493fa87693770c13db7[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:46:35 2021 +0800
+
+    Added an image of a frech toast bread chicken
+
+[33mcommit 56b165e0d8b94d795a8053a5c906daef7eb36c5b[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:44:39 2021 +0800
+
+    Made some syntax changes to the steps li tags
+
+[33mcommit cb0974caff75c497382c201524d3cb83fd458b21[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:32:26 2021 +0800
+
+    Added a new image of apple crumble and its recipe on applecrumble.html
+
+[33mcommit da43e6d2f6556ecc2590dc86cf21a768b80deea5[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:26:15 2021 +0800
+
+    Added a new recipe called applecrumble.html and I added some unordered list spaces in index.html
+
+[33mcommit 8c7ae8df11a842355411a5d336ffee2eb1942db5[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:22:25 2021 +0800
+
+    Added a final product photo of the recipe peanut butter cup cookie
+
+[33mcommit a058b38d1cc3b3a3a0e5be78f7bf10051c9445af[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:21:22 2021 +0800
+
+    Added ingredients and steps to make the recipe
+
+[33mcommit d9adabec20a7b2f1ed09f4cd2588ab29810f4fed[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:11:45 2021 +0800
+
+    Added a new file called cookies.html and linked it to the main index.html
+
+[33mcommit 445a9b5217a59a4f9a018c695ec1b68d076aeab8[m
+Author: moorely <andrea.canatoy@gmail.com>
+Date:   Fri Sep 24 00:06:29 2021 +0800
+
+    Added an index.html file with a main heading of Odin Recipes
