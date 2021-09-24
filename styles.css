@@ -1,10 +1,12 @@
 body {
   background-color: #f5e6ca;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .links {
   color: #f5e6ca;
   background-color: #343f56;
+  text-decoration: none;
 }
 
 img {
@@ -24,6 +26,15 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: #0a1d37;
+.steps {
+  background-color: #0a1d37;
+  color: #f5e6ca;
+}
+
+.yellow h2 {
+  color: #f5e6ca;
+}
+
+.yellow li {
+  color: #fb9300;
 }
